@@ -1,4 +1,4 @@
-  <img src="https://github.com/allgeo/TMU-Marketplace/assets/62227321/642b9c0f-4990-43ee-ba8b-50ce68492c00" alt="lOGO" width="100">
+  <img src="https://github.com/Roupstrer02/University-Student-Marketplace/assets/62227321/642b9c0f-4990-43ee-ba8b-50ce68492c00" alt="lOGO" width="100">
 
 # TMU Marketplace
 
